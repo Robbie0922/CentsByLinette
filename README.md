@@ -1,2 +1,4 @@
 # CentsByLinette
-Quick little website for my mom to display items that she sell with pricing and description
+Quick little website template for someone display items that they want to display
+
+Link for template:  https://robbie0922.github.io/CentsByLinette/
